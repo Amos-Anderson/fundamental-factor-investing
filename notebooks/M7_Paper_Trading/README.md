@@ -1,0 +1,1 @@
+Gordon Growth Model, Modigliani-Miller, q-theory.

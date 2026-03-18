@@ -1,0 +1,58 @@
+# ── Data files ───────────────────────────────────────────────────────────────
+data/extended_v2/
+data/raw/
+*.parquet
+*.csv
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+
+# ── Jupyter ───────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Environments ─────────────────────────────────────────────────────────────
+.env
+.venv
+env/
+venv/
+
+# ── OS ────────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── LaTeX build artifacts ─────────────────────────────────────────────────────
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+report/*.bbl
+report/*.blg
+report/*.synctex.gz
+report/*.fls
+report/*.fdb_latexmk
+
+# ── Outputs ───────────────────────────────────────────────────────────────────
+outputs/
+figures/
+*.png
+*.jpg
+*.pdf
+!report/*.pdf
+
+# ── WRDS credentials ─────────────────────────────────────────────────────────
+pgpass.conf
+.pgpass
