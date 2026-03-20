@@ -53,6 +53,8 @@ figures/
 *.pdf
 !report/*.pdf
 
+!report/*.pdf
+
 # ── WRDS credentials ─────────────────────────────────────────────────────────
 pgpass.conf
 .pgpass
