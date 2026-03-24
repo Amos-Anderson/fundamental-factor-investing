@@ -30,17 +30,16 @@ The theoretical backbone of the project is documented in the written report
 
 ### Module Roadmap
 
-| Module | Title | Status |
-|--------|-------|--------|
-| M0 | Theoretical Foundations | In Report |
-| M1 | Factor Construction | 🔲 Pending |
-| M2 | Fama-MacBeth Regression | 🔲 Pending |
-| M3 | Factor Orthogonalization | 🔲 Pending |
-| M4 | Signal Evaluation | 🔲 Pending |
-| M5 | Portfolio Construction | 🔲 Pending |
-| M6 | Walk-Forward Backtesting | 🔲 Pending |
-| M7 | Paper Trading | 🔲 Pending |
-
+| Module | Title |
+|--------|-------|
+| M0 | Theoretical Foundations | 
+| M1 | Factor Construction | 
+| M2 | Fama-MacBeth Regression | 
+| M3 | Factor Orthogonalization | 
+| M4 | Signal Evaluation | 
+| M5 | Portfolio Construction | 
+| M6 | Walk-Forward Backtesting | 
+| M7 | Paper Trading | 
 ---
 
 ## Module Descriptions
